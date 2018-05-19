@@ -1,5 +1,5 @@
 {
-    "name": "topthink/think",
+    "name": "jackcnn/eacoophp",
     "description": "the new thinkphp framework",
     "type": "project",
     "keywords": [
@@ -7,12 +7,12 @@
         "thinkphp",
         "ORM"
     ],
-    "homepage": "http://thinkphp.cn/",
+    "homepage": "http://lethe.date/",
     "license": "Apache-2.0",
     "authors": [
         {
-            "name": "liu21st",
-            "email": "liu21st@gmail.com"
+            "name": "jackcnn",
+            "email": "jackcnn@gmail.com"
         }
     ],
     "require": {
